@@ -1,0 +1,10 @@
+Results
+========================================
+
+Top student in Science: Chamari - 90
+Top student in Mathematics: Kusal - 95
+Top student in English: Thilini - 92
+Top student in History: Nilan - 78
+Top student in Geography: Anushka - 80
+
+Top student in class: Tharindu - 157
